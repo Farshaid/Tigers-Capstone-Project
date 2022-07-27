@@ -1,4 +1,4 @@
-@tekschool001
+@endToEnd
 Feature: Laptop & NoteBooks
 Background: 
 Given User is on Retail website

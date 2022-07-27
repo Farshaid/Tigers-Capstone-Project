@@ -1,12 +1,11 @@
-
-@tekschool001
+@endToEnd
 Feature: Retail Page
 
 Background:
 Given User is on Retail website 
 And User click  on MyAccount
 When  User click on Login 
-And User enter username 'Farshid0709@Gmail.com' and password 'Jumbo121416'
+And User enter username 'Oliver.Kahn@Bayern.com' and password 'Jumbo121416'
 And User click on Login button
 Then User should be logged in to MyAccount dashboard
 
@@ -15,7 +14,7 @@ When User click on 'Register for an Affiliate Account' link
 And User fill affiliate form with below information
 
 |company|website|taxID|paymentMethod|
-|Farshid|Farshid.com|00142657|cheque|
+|Bayern|BayernMiaSonMia.com|08022018|cheque|
 
 And User fill the Cheque Payee name
 And User click on About us check box 
@@ -28,7 +27,7 @@ And user click on Bank Transfer radio button
 And User fill Bank information with below information
 
 |bankName|abaNumber|swiftCode|accountName|accountNumber|
-|Shorbazaar|0074030|1234987|FarshidRafi|123456789101112|
+|DutchBank|1010908010|16917321|OliverKahn|1238226777101112|
 
 And User click on Continue button2 
 Then User should see a success message2
@@ -38,7 +37,7 @@ When User click on Edit your account information link
 Then User modify below information
 	
 	|firstname|lastName|email|telephone|
-	|Farshaid|Rafi|Farshaid0709@Gmail.com|4204204209|
+	|Oliver|Kahn|Oliver.Kahn01@Bayern.com|4204204209|
 	
 And User click on continue button3 
 Then User should see a message 'Success: Your account has been successfully updated.' 

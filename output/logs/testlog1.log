@@ -3221,3 +3221,169 @@
 2022-07-08 17:10:00,825 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
 2022-07-08 17:10:03,652 [main] INFO logger_File - We retrieved the success message from UI
 2022-07-08 17:10:04,283 [main] INFO logger_File - ScenarioUser empty Shopping cart message displays PASSED
+2022-07-27 07:11:15,672 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-07-27 07:11:15,959 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:11:15,969 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:11:18,849 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:11:19,000 [main] INFO logger_File - Desktop Button was click successfully
+2022-07-27 07:11:20,506 [main] INFO logger_File - We have successfully clicked the: Show All Desktop Tab
+2022-07-27 07:11:20,574 [main] INFO logger_File -  Is present
+2022-07-27 07:11:20,605 [main] INFO logger_File - Desktops Is present
+2022-07-27 07:11:20,636 [main] INFO logger_File - Apple Cinema 30" Is present
+2022-07-27 07:11:20,667 [main] INFO logger_File - Canon EOS 5D Camera Is present
+2022-07-27 07:11:20,698 [main] INFO logger_File - HP LP3065 Is present
+2022-07-27 07:11:20,730 [main] INFO logger_File - HTC Touch HD Is present
+2022-07-27 07:11:20,761 [main] INFO logger_File - iPhone Is present
+2022-07-27 07:11:20,792 [main] INFO logger_File - iPod Classic Is present
+2022-07-27 07:11:20,822 [main] INFO logger_File - MacBook Is present
+2022-07-27 07:11:20,852 [main] INFO logger_File - MacBook Air Is present
+2022-07-27 07:11:20,884 [main] INFO logger_File - Palm Treo Pro Is present
+2022-07-27 07:11:20,914 [main] INFO logger_File - Product 8 Is present
+2022-07-27 07:11:20,945 [main] INFO logger_File - Samsung SyncMaster 941BW Is present
+2022-07-27 07:11:20,977 [main] INFO logger_File - Sony VAIO Is present
+2022-07-27 07:11:21,966 [main] INFO logger_File - ScenarioUser verify all items are present in Desktops tab PASSED
+2022-07-27 07:11:21,991 [main] INFO logger_File - Scenario User add HP LP3065  from Desktops tab to the cart started
+2022-07-27 07:11:21,995 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:11:22,000 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:11:24,759 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:11:24,899 [main] INFO logger_File - Desktop Button was click successfully
+2022-07-27 07:11:26,591 [main] INFO logger_File - We have successfully clicked the: Show All Desktop Tab
+2022-07-27 07:11:26,669 [main] INFO logger_File - Add to Cart Button on HP laptop was clicked Successfully
+2022-07-27 07:11:29,365 [main] INFO logger_File - We have entered our desired Quantity successfully
+2022-07-27 07:11:32,431 [main] INFO logger_File - We have successfully clicked on Add to Cart Button
+2022-07-27 07:11:32,472 [main] INFO logger_File - Success: You have added HP LP3065 to your shopping cart!
+×
+2022-07-27 07:11:37,624 [main] INFO logger_File - ScenarioUser add HP LP3065  from Desktops tab to the cart PASSED
+2022-07-27 07:11:37,654 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-27 07:11:37,654 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:11:37,670 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:11:40,547 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:11:40,686 [main] INFO logger_File - Desktop Button was click successfully
+2022-07-27 07:11:42,175 [main] INFO logger_File - We have successfully clicked the: Show All Desktop Tab
+2022-07-27 07:11:42,233 [main] INFO logger_File - User clicked on ADD TO CART option on Canon EOS5D item successfully
+2022-07-27 07:11:43,803 [main] INFO logger_File - Color red was selected from dropdown list successfully
+2022-07-27 07:11:44,942 [main] INFO logger_File - We have entered our desired Quantity successfully
+2022-07-27 07:11:46,038 [main] INFO logger_File - We have successfully clicked on Add to Cart Button
+2022-07-27 07:11:46,072 [main] INFO logger_File - Success: You have added Canon EOS 5D Camera to your shopping cart!
+×
+2022-07-27 07:11:51,253 [main] INFO logger_File - ScenarioUser add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-27 07:11:51,287 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-07-27 07:11:51,302 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:11:51,319 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:11:54,203 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:11:54,342 [main] INFO logger_File - Desktop Button was click successfully
+2022-07-27 07:11:55,900 [main] INFO logger_File - We have successfully clicked the: Show All Desktop Tab
+2022-07-27 07:11:57,321 [main] INFO logger_File - User clicked on Canon EOS5D item successfully
+2022-07-27 07:11:57,400 [main] INFO logger_File - User clicked on write a review link successfully
+2022-07-27 07:11:57,589 [main] INFO logger_File - the Review form was filled successfully
+2022-07-27 07:11:59,632 [main] INFO logger_File - Desired Rating was clicked successfully
+2022-07-27 07:12:01,709 [main] INFO logger_File - Continue button was clicked
+2022-07-27 07:12:01,750 [main] INFO logger_File - Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-27 07:12:06,765 [main] INFO logger_File - ScenarioUser add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-07-27 07:12:06,780 [main] INFO logger_File - Scenario User verify currency values change started
+2022-07-27 07:12:06,796 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:12:06,796 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:12:09,557 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:12:09,612 [main] INFO logger_File - User clicked on Currency Successfully
+2022-07-27 07:12:10,037 [main] INFO logger_File - User seleced his/her desired currency(Euro) successfully
+2022-07-27 07:12:10,071 [main] INFO logger_File - User successfully retrieved: € From UI
+2022-07-27 07:12:10,699 [main] INFO logger_File - ScenarioUser verify currency values change PASSED
+2022-07-27 07:12:10,711 [main] INFO logger_File - Scenario User empty Shopping cart message displays started
+2022-07-27 07:12:10,714 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:12:10,718 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:12:13,439 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:12:13,496 [main] INFO logger_File - Shopping Cart button was clicked by User
+2022-07-27 07:12:13,531 [main] INFO logger_File - Your shopping cart is empty!
+2022-07-27 07:12:14,165 [main] INFO logger_File - ScenarioUser empty Shopping cart message displays PASSED
+2022-07-27 07:12:14,182 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-07-27 07:12:14,186 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:12:14,188 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:12:16,913 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:12:17,052 [main] INFO logger_File - Laptop & NoteBook tab was clicked by User
+2022-07-27 07:12:17,442 [main] INFO logger_File - Show all Laptop & NoteBook Option was selected by User from Laptop & Notebook tab
+2022-07-27 07:12:20,944 [main] INFO logger_File - MacBook item was Clicked by User
+2022-07-27 07:12:20,994 [main] INFO logger_File - User Clicked on add to Cart Button
+2022-07-27 07:12:21,196 [main] INFO logger_File - Success: You have added MacBook to your shopping cart!
+×
+2022-07-27 07:12:21,230 [main] INFO logger_File - User was able to see: 1 item(s) - $602.0 On UI
+2022-07-27 07:12:21,282 [main] INFO logger_File - User Clicked on add to Cart Button
+2022-07-27 07:12:23,341 [main] INFO logger_File - Red X button was clicked, and Item from our Cart was removed
+2022-07-27 07:12:23,371 [main] INFO logger_File - User successfully removed Item from Cart, now it shows: 0 item(s) - $0.00
+2022-07-27 07:12:28,115 [main] INFO logger_File - ScenarioAdd and Remove a Mac book from Cart PASSED
+2022-07-27 07:12:28,143 [main] INFO logger_File - Scenario Product Comparison started
+2022-07-27 07:12:28,152 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:12:28,152 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:12:31,144 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:12:31,285 [main] INFO logger_File - Laptop & NoteBook tab was clicked by User
+2022-07-27 07:12:31,701 [main] INFO logger_File - Show all Laptop & NoteBook Option was selected by User from Laptop & Notebook tab
+2022-07-27 07:12:31,761 [main] INFO logger_File - User clicked on Compare button on MacBook
+2022-07-27 07:12:33,819 [main] INFO logger_File - User clicked on Compare button on MacBook Air
+2022-07-27 07:12:33,851 [main] INFO logger_File - Success: You have added MacBook Air to your product comparison!
+×
+2022-07-27 07:12:34,190 [main] INFO logger_File - Product Comparison Link was Clicked
+2022-07-27 07:12:34,220 [main] INFO logger_File - We are able to see every Comparison Chart
+2022-07-27 07:12:35,139 [main] INFO logger_File - ScenarioProduct Comparison PASSED
+2022-07-27 07:12:35,155 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-07-27 07:12:35,155 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:12:35,173 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:12:38,096 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:12:38,263 [main] INFO logger_File - Laptop & NoteBook tab was clicked by User
+2022-07-27 07:12:38,757 [main] INFO logger_File - Show all Laptop & NoteBook Option was selected by User from Laptop & Notebook tab
+2022-07-27 07:12:38,815 [main] INFO logger_File - Sony VAIO Laptop was added to Wish List using the Heart Icon on UI
+2022-07-27 07:12:38,968 [main] INFO logger_File - You must login or create an account to save Sony VAIO to your wish list!
+×
+2022-07-27 07:12:40,065 [main] INFO logger_File - ScenarioAdding an item to Wish list PASSED
+2022-07-27 07:12:40,076 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is two thousand dollars started
+2022-07-27 07:12:40,079 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:12:40,081 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:12:42,825 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:12:42,963 [main] INFO logger_File - Laptop & NoteBook tab was clicked by User
+2022-07-27 07:12:43,344 [main] INFO logger_File - Show all Laptop & NoteBook Option was selected by User from Laptop & Notebook tab
+2022-07-27 07:12:44,750 [main] INFO logger_File - MacBook Pro item was Clicked By User
+2022-07-27 07:12:44,779 [main] INFO logger_File - MacBook Pro's Price: $2,000.00 Was retrieved successfully from TekSchool Retail WebSite
+2022-07-27 07:12:49,508 [main] INFO logger_File - ScenarioValidate the price of MacBook Pro is two thousand dollars PASSED
+2022-07-27 07:12:49,522 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-27 07:12:49,526 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:12:49,530 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:12:52,317 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:12:52,374 [main] INFO logger_File - MyAccount button was clicked sucessfully
+2022-07-27 07:12:52,627 [main] INFO logger_File - Login link was clicked sucessfully
+2022-07-27 07:12:52,796 [main] INFO logger_File - Email and password were entered successfully
+2022-07-27 07:12:55,189 [main] INFO logger_File - Login Button was clicked sucessfully
+2022-07-27 07:12:55,218 [main] INFO logger_File - My Account
+2022-07-27 07:12:57,746 [main] INFO logger_File - The Affiliate Account link was clicked successfully
+2022-07-27 07:12:58,032 [main] INFO logger_File - The Affiliate form was filled Successfully
+2022-07-27 07:13:00,137 [main] INFO logger_File - The Cheque Payee Field was filled successfully
+2022-07-27 07:13:00,203 [main] INFO logger_File - We have Successfully clicked on the Checkbox
+2022-07-27 07:13:02,689 [main] INFO logger_File - Continue Button was Clicked successfully
+2022-07-27 07:13:02,718 [main] INFO logger_File - SUCCESS: YOUR ACCOUNT HAS BEEN SUCCESSFULLY UPDATED.
+2022-07-27 07:13:06,434 [main] INFO logger_File - ScenarioRegister as an Affiliate user with Cheque Payment Method PASSED
+2022-07-27 07:13:06,440 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-27 07:13:06,460 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:13:06,460 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:13:09,430 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:13:09,497 [main] INFO logger_File - MyAccount button was clicked sucessfully
+2022-07-27 07:13:09,836 [main] INFO logger_File - Login link was clicked sucessfully
+2022-07-27 07:13:10,007 [main] INFO logger_File - Email and password were entered successfully
+2022-07-27 07:13:12,384 [main] INFO logger_File - Login Button was clicked sucessfully
+2022-07-27 07:13:12,421 [main] INFO logger_File - My Account
+2022-07-27 07:13:14,888 [main] INFO logger_File - Edit your affiliate information link was clicked successfully
+2022-07-27 07:13:14,943 [main] INFO logger_File - The Bank Transfer Radio Button was clicked Successfully
+2022-07-27 07:13:15,306 [main] INFO logger_File - User filled the Bank information form successfully
+2022-07-27 07:13:17,715 [main] INFO logger_File - Continue Button on Edit Affiliate was clicked Successfully
+2022-07-27 07:13:17,751 [main] INFO logger_File - Our Affiliate Account has been edited Successfully
+2022-07-27 07:13:18,412 [main] INFO logger_File - ScenarioEdit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-27 07:13:18,426 [main] INFO logger_File - Scenario Edit your account Information started
+2022-07-27 07:13:18,430 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-27 07:13:18,430 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Farsh\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-27 07:13:21,300 [main] INFO logger_File - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-07-27 07:13:21,355 [main] INFO logger_File - MyAccount button was clicked sucessfully
+2022-07-27 07:13:21,608 [main] INFO logger_File - Login link was clicked sucessfully
+2022-07-27 07:13:21,763 [main] INFO logger_File - Email and password were entered successfully
+2022-07-27 07:13:24,167 [main] INFO logger_File - Login Button was clicked sucessfully
+2022-07-27 07:13:24,200 [main] INFO logger_File - My Account
+2022-07-27 07:13:27,176 [main] INFO logger_File - Edit your Account Information link was clicked successfully
+2022-07-27 07:13:27,492 [main] INFO logger_File - We have Successfully edited our Acount's information
+2022-07-27 07:13:28,065 [main] INFO logger_File - The Continue Button on Edit your Account page was clicked successfully
+2022-07-27 07:13:28,097 [main] INFO logger_File - Success: Your account has been successfully updated.
+2022-07-27 07:13:28,750 [main] INFO logger_File - ScenarioEdit your account Information PASSED

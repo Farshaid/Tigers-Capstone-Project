@@ -11,7 +11,7 @@ import utilities.CucumberReportingConfig;
 @CucumberOptions(
 		features = "classpath:features" , 
 		glue = "step.definitions" ,
-		tags = "@tekschool002" ,
+		tags = "@endToEnd" ,
 		dryRun = false ,
 		strict = true,
 		monochrome = true,

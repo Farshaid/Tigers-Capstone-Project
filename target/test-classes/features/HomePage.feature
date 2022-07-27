@@ -1,4 +1,4 @@
-@tekschool001
+@endToEnd
 Feature: Home Page
 Background: 
 Given User is on Retail website

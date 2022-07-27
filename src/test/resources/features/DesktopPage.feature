@@ -1,4 +1,4 @@
-@tekschool001
+@endToEnd
 Feature: Desktops Tab 
 Background: 
 Given User is on Retail website
